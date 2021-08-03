@@ -1,0 +1,11 @@
+logbook
+pydantic
+sentry-sdk
+fastapi[all]
+uvicorn[standard]
+pendulum
+sqlalchemy
+black
+mypy
+pudb
+
