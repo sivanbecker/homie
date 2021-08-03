@@ -1,0 +1,7 @@
+*.pyc
+
+# vscode
+.vscode/settings.json
+
+# develop local SQLite
+sql_app.db
