@@ -28,12 +28,7 @@ class MaintenanceCycle(IntEnum):
     YEARLY_3 = 36
 
 
-class MaintenanceState(IntEnum):
-    CREATED = 1
-    STARTED = 2
-    DONE = 3
-    STOPPED = 4
-    CANCELED = 5
+
 
 
 class MaintenanceType(BaseModel):
